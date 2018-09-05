@@ -1,0 +1,7 @@
+[package]
+name = "rust-lottery"
+version = "0.1.0"
+authors = ["andream16 <andrea.medda.uni@gmail.com>"]
+
+[dependencies]
+rand = "0.5.5"
