@@ -1,0 +1,2 @@
+# rust-lottery
+Rust test
